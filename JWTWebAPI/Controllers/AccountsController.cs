@@ -20,6 +20,7 @@ namespace JWTWebAPI.Controllers
             _context = userContext;
         }
 
+
         [HttpPost("login")]
         public ActionResult Login(string username, string password)
         {
