@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sarwan\\Documents\\dotnet\\Temp\\JWTWebAPI\\JWTWebAPI\\JWTWebAPI.csproj": {}
+    "C:\\Users\\Sarwan\\Documents\\dotnet\\awrosoft\\JWTWebAPI\\JWTWebAPI\\JWTWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sarwan\\Documents\\dotnet\\Temp\\JWTWebAPI\\JWTWebAPI\\JWTWebAPI.csproj": {
+    "C:\\Users\\Sarwan\\Documents\\dotnet\\awrosoft\\JWTWebAPI\\JWTWebAPI\\JWTWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sarwan\\Documents\\dotnet\\Temp\\JWTWebAPI\\JWTWebAPI\\JWTWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Sarwan\\Documents\\dotnet\\awrosoft\\JWTWebAPI\\JWTWebAPI\\JWTWebAPI.csproj",
         "projectName": "JWTWebAPI",
-        "projectPath": "C:\\Users\\Sarwan\\Documents\\dotnet\\Temp\\JWTWebAPI\\JWTWebAPI\\JWTWebAPI.csproj",
+        "projectPath": "C:\\Users\\Sarwan\\Documents\\dotnet\\awrosoft\\JWTWebAPI\\JWTWebAPI\\JWTWebAPI.csproj",
         "packagesPath": "C:\\Users\\Sarwan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sarwan\\Documents\\dotnet\\Temp\\JWTWebAPI\\JWTWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Sarwan\\Documents\\dotnet\\awrosoft\\JWTWebAPI\\JWTWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -102,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

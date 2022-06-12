@@ -1,1 +1,1 @@
-JWTWebAPI
+This is an ASP.Net Core Web API
