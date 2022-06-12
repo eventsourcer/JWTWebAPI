@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GWcAWcTRh5odRg5Jyy8DN67nYP3E7Bbhe1L64GHCJeTYzC+JFdY9YgRoaVr4AWN6YLsN2ctrSK14STx65wXdkQ==",
+  "dgSpecHash": "EzZ1Sdb6odelgCLUPf53YjiKhCbKfUp71cODqwq1/Zsg5k5svoLnrLM31Ojs6cJWaUdtjPYJC/pWbHl3FDsWtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sarwan\\Documents\\dotnet\\Temp\\JWTWebAPI\\JWTWebAPI\\JWTWebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Sarwan\\Documents\\dotnet\\awrosoft\\JWTWebAPI\\JWTWebAPI\\JWTWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sarwan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sarwan\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",
