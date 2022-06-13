@@ -1,1 +1,1 @@
-This is an ASP.Net Core Web API that leverages JWT
+This is an ASP.Net Core Web API that leverages JWT auth
